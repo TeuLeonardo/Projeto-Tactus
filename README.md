@@ -40,16 +40,19 @@ Este projeto foi concebido exclusivamente na etapa de **ideação e prototipagem
 ## 👥 Equipe
 
 Projeto idealizado durante o Kick-Off da Residência Tecnológica com a colaboração de estudantes do 1º período:
-- **Maria Andréa** - Pitch, esculturas 3D e Personas
-- **Maria Vitória** - Slide de apresentação e Personas
-- **Marina Gabrielle** - Pitch em Vídeo
-- **Matheus Leonardo** – Figma e Diagrama de fluxo de telas
-- **Miguel Luiz** - Lean Canvas e Apresentador do projeto 
-- **Niraldo Santiago** - Jornada do Usuário
-- **Pedro Henrique** - Jornada do Usuário
-- **Rony Vieira** - Análise de Concorrentes
-- **Sue Hellen** - Pitch em Vídeo
-- **Victor Maxwell** - Figma e Lean Canvas
+## 👥 Colaboradores
+
+- [Maria Andréa](https://github.com/Mandreasn) – Pitch, esculturas 3D e Personas  
+- [Maria Vitória](https://github.com/Mariavitoriaoliveiracarvalho) – Slide de apresentação e Personas  
+- [Marina Gabrielle](https://github.com/@usuario) – Pitch em vídeo  
+- [Matheus Leonardo](https://github.com/TeuLeonardo) – Figma e Diagrama de fluxo de telas  
+- [Miguel Luiz](https://github.com/Miguel-de-Oliveira) – Lean Canvas e Apresentador do projeto  
+- [Niraldo Santiago](https://github.com/@usuario) – Jornada do Usuário  
+- [Pedro Henrique](https://github.com/@usuario) – Jornada do Usuário  
+- [Rony Vieira](https://github.com/rony-vieira) – Análise de Concorrentes  
+- [Sue Hellen](https://github.com/suehellenarruda) – Pitch em vídeo  
+- [Victor Maxwell](https://github.com/VMOliver) – Figma e Lean Canvas
+
 
 ---
 
