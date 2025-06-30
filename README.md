@@ -1,4 +1,4 @@
-# 🎨 Tactus — E-commerce Cultural Inclusivo
+# 🌵 Tactus — E-commerce Cultural Inclusivo
 
 O **Tactus** é um projeto de e-commerce inclusivo que propõe uma nova forma de vivenciar arte e cultura por meio da acessibilidade sensorial. Idealizado durante o **Kick-Off da Residência Tecnológica no 1º período**, o projeto tem como foco pessoas com deficiência visual, oferecendo obras de arte 3D personalizáveis, audiodescrição e um sistema de sustentabilidade baseado em reciclagem.
 
