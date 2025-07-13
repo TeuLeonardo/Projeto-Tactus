@@ -65,7 +65,7 @@ Projeto idealizado durante o Kick-Off da Residência Tecnológica com a colabora
 
 ## 📐 Protótipo Visual
 
-Acesse o protótipo do Tactus no [Figma](https://www.figma.com/design/tUxMLmuRgNqa8z3ttBs85c/Untitled?node-id=1-4&t=bGXlXCtytqp2AeYu-1) 
+Acesse o protótipo do Tactus no [Figma](https://www.figma.com/proto/tUxMLmuRgNqa8z3ttBs85c/Tactus?node-id=35-14&p=f&t=Tcy3Qd7mPBdaGpWx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=35%3A14&show-proto-sidebar=1) 
 
 ---
 
