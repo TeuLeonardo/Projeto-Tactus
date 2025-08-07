@@ -47,7 +47,7 @@ Projeto idealizado durante o Kick-Off da Residência Tecnológica com a colabora
 - [Marina Gabrielle](https://github.com/@usuario) – Pitch em vídeo  
 - [Matheus Leonardo](https://github.com/TeuLeonardo) – Figma e Diagrama de fluxo de telas  
 - [Miguel Luiz](https://github.com/Miguel-de-Oliveira) – Lean Canvas e Apresentador do projeto  
-- Niraldo Santiago – Jornada do Usuário  
+- [Niraldo Santiago](https://github.com/niraldosantiago) – Jornada do Usuário  
 - Pedro Henrique – Jornada do Usuário  
 - [Rony Vieira](https://github.com/rony-vieira) – Análise de Concorrentes  
 - [Sue Hellen](https://github.com/suehellenarruda) – Pitch em vídeo  
