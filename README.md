@@ -59,7 +59,7 @@ Projeto idealizado durante o Kick-Off da Residência Tecnológica com a colabora
 ## 📍 Status do Projeto
 
 🧠 Ideado e apresentado como protótipo durante a Residência Tecnológica  
-📦 Não está em desenvolvimento ativo ou produção
+📦 Não está em desenvolvimento ativo ou produção.
 
 ---
 
